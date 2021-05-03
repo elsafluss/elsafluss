@@ -17,6 +17,36 @@
 
 ***
 
+<h3 align="left"> 👨🏻‍💻 ❤️Some Languages, Frameworks, Libraries and Tools I Like to Use... </h3>
+
+<p align="center">
+  <code><img alt='React' title='React' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+  <code><img alt='Redux' title='Redux' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+  <code><img alt='JavaScript' title='JavaScript' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+  <code><img alt='TypeScript' title='TypeScript' height="75" src="/icons/typescript.png"></code> 
+  <code><img alt='HTML' title='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+  <code><img alt='CSS' title='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+&nbsp;&nbsp;
+    <code><img alt='SCSS' title='SCSS' height="75" src="/icons/sass.png"></code>
+&nbsp;&nbsp;
+  <code><img alt='GIT' title='Git' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+  <code><img alt='NPM' title='npm' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+</p>
+
+***
+
+<h3 align="left"> 👨🏻‍💻 📈How I Test My Code... </h3>
+
+<p align="center">
+  <code><img alt='TDD' title='TDD' height="75" src="/icons/tdd.png"></code> &nbsp;&nbsp;
+  <code><img alt='Mocha' title='Mocha' height="75" src="/icons/mocha.png"></code> &nbsp;&nbsp;
+  <code><img alt='Chai' title='Chai' height="75" src="/icons/chai.png"></code> &nbsp;&nbsp;
+  <code><img alt='Cypress.io' title='Cypress.io' height="75" src="/icons/cypress.png"></code> &nbsp;&nbsp;
+</p>
+
+
+
+
 <!--
 **elsafluss/elsafluss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
