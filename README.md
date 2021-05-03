@@ -10,7 +10,7 @@
 
 <h3 align="left"> 🔭 I’m currently working on... </h3>
 <p align="center">
-  <code><a href="https://turing.edu/" target="_blank"><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></a></code> &nbsp;&nbsp;
+
   <code><a href="https://github.com/ChessAdventure/client" target="_blank"><img alt='ChessPedition' title='ChessPedition' height="75" src="/icons/chess.png"></a></code> &nbsp;&nbsp;
   <code><a href="https://github.com/elsafluss/whos-that-cub" target="_blank"><img alt='Cubs logo' title='whos-that-cub' height="75" src="/icons/cubs.png"></a></code> &nbsp;&nbsp;
 </p>
@@ -66,14 +66,34 @@
   <code><img alt='JWT' title='JWT' height="75" src="/icons/jwt.png"></code> &nbsp;&nbsp;
 </p>
 
+***
+<h3 align="left">📱 How To Reach Me... </h3>
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/elsafluss" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px"    alt="LinkedIn">
+  </a>
+  &nbsp; &nbsp;
+  <a href="mailto:elsafluss@gmail.com">
+    <img alt='ealt='' mail me!' src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="email"
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/hopepunkelsa" target="_blank" rel="noopener noreferrer">
+    <img alt='visit my twitter'src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://terminal.turing.edu/alumni/745-elsa-fluss" target="_blank" rel="noopener noreferrer">
+    <img alt='my portfolio'src="/icons/turing.png" width="30px" alt="Turing portfolio">
+  </a>
+  &nbsp; &nbsp;
+</p>
 
 
 <!--
 **elsafluss/elsafluss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  <code><a href="https://turing.edu/" target="_blank"><img alt='Turing' title='turing' height="75" src="/icons/turing.png"></a></code> &nbsp;&nbsp;
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
