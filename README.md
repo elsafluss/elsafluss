@@ -31,6 +31,8 @@
 &nbsp;&nbsp;
   <code><img alt='GIT' title='Git' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
   <code><img alt='NPM' title='npm' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+  <code><img alt='graphQL' title='graphQL' height="75" src="/icons/graphql.png"></code> &nbsp;&nbsp;
+  <code><img alt='node.js' title='node' height="75" src="/icons/node.png"></code> &nbsp;&nbsp;
 </p>
 
 ***
@@ -42,6 +44,26 @@
   <code><img alt='Mocha' title='Mocha' height="75" src="/icons/mocha.png"></code> &nbsp;&nbsp;
   <code><img alt='Chai' title='Chai' height="75" src="/icons/chai.png"></code> &nbsp;&nbsp;
   <code><img alt='Cypress.io' title='Cypress.io' height="75" src="/icons/cypress.png"></code> &nbsp;&nbsp;
+</p>
+
+***
+<h3 align="left"> 👨🏻‍💻 ✈️How I Deploy My Code... </h3>
+
+<p align="center">
+  <code><img alt='GH Pages' title='GH Pages' height="75" src="/icons/GitHub-Mark.png"></code> &nbsp;&nbsp;
+  <code><img alt='Heroku' title='Heroku' height="75" src="/icons/heroku.png"></code> &nbsp;&nbsp;
+  <code><img alt='GH Actions' title='GH Actions' height="75" src="/icons/githubactions.png"></code> &nbsp;&nbsp;
+  <code><img alt='TravisCI' title='TravisCI' height="75" src="/icons/travis.png"></code> &nbsp;&nbsp;
+</p>
+
+***
+
+<h3 align="left"> 🍎 Some Tools I Am Learning... </h3>
+
+<p align="center">
+  <code><img alt='express.js' title='express' height="75" src="/icons/express.png"></code> &nbsp;&nbsp;
+  <code><img alt='websockets' title='websockets' height="75" src="/icons/websockets.png"></code> &nbsp;&nbsp;
+  <code><img alt='JWT' title='JWT' height="75" src="/icons/jwt.png"></code> &nbsp;&nbsp;
 </p>
 
 
