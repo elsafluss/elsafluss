@@ -9,8 +9,8 @@
 ***
 
 <h3 align="left"> 🔭 I’m currently working on... </h3>
-<p align="center">
 
+<p align="center">
   <code><a href="https://github.com/ChessAdventure/client" target="_blank"><img alt='ChessPedition' title='ChessPedition' height="75" src="/icons/chess.png"></a></code> &nbsp;&nbsp;
   <code><a href="https://github.com/elsafluss/whos-that-cub" target="_blank"><img alt='Cubs logo' title='whos-that-cub' height="75" src="/icons/cubs.png"></a></code> &nbsp;&nbsp;
 </p>
@@ -27,6 +27,8 @@
   <code><img alt='HTML' title='HTML' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
   <code><img alt='CSS' title='CSS' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 &nbsp;&nbsp;
+  </p>
+  <p align="center">
     <code><img alt='SCSS' title='SCSS' height="75" src="/icons/sass.png"></code>
 &nbsp;&nbsp;
   <code><img alt='GIT' title='Git' height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
