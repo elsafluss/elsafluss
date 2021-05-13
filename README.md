@@ -13,7 +13,8 @@
 <p align="center">
   <code><a href="https://github.com/ChessAdventure/client" target="_blank"><img alt='ChessPedition' title='ChessPedition' height="75" src="/icons/chess.png"></a></code> &nbsp;&nbsp;
   <code><a href="https://github.com/elsafluss/whos-that-cub" target="_blank"><img alt='Cubs logo' title='whos-that-cub' height="75" src="/icons/cubs.png"></a></code> &nbsp;&nbsp;  
-  <code><a href="https://github.com/elsafluss/scorekeeper" target="_blank"><img alt='baseball' title='scorekeeper' height="75" src="/icons/baseball.png"></a></code> &nbsp;&nbsp;
+  <code><a href="https://github.com/elsafluss/scorekeeper" target="_blank"><img alt='baseball' title='scorekeeper' height="75" src="/icons/baseball.png"></a></code> &nbsp;&nbsp;  
+  <code><a href="https://github.com/elsafluss/home-site" target="_blank"><img alt='home' title='personal site' height="75" src="/icons/homepage.png"></a></code> &nbsp;&nbsp;
 </p>
 
 ***
